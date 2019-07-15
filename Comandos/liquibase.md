@@ -6,7 +6,7 @@
 
 Liquibase
 
-#### Opicional
+#### Opcional
 
 No banco de dados Oracle
 
