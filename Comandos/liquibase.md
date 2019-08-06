@@ -25,7 +25,7 @@ para setar configurações para o oracle script no banco de dados
     change-log: classpath:liquibase/changelog.yaml
 	
 
-	
+​	
 
 
 
